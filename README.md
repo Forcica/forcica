@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Frontend Developer in learning from France 🇫🇷.<br><br>🔭 I’m learning to be a Frontend Developer in [Open Classroom](https://openclassrooms.com/fr/).<br>🌱 I’m currently learning Javascript.<br>💬 I'm also a Game and Level Designer<br>⚡ In my free time, I try to pass some challenges on [FrontEnd Mentor](https://www.frontendmentor.io/home).
+I'm a Frontend Developer in learning from France 🇫🇷.<br><br>🔭 I’m learning to be a Frontend Developer in [Open Classroom](https://openclassrooms.com/fr/).<br>🌱 I’m currently learning React.<br>💬 I'm also a Game and Level Designer<br>⚡ In my free time, I try to pass some challenges on [FrontEnd Mentor](https://www.frontendmentor.io/home).
 
 
 ## 🌐 Socials:
